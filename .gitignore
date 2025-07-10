@@ -1,2 +1,4 @@
 # Dataset root folders (all contents excluded)
 /datasets/*
+/traffic_light_data/*
+/traffic_sign_data/*
